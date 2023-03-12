@@ -1,5 +1,5 @@
 {
-  "name": "find-value",
+  "name": "@mathieuprog/find-value",
   "version": "1.0.0",
   "description": "Similar to Array.find(), but returns the value of the function invocation instead of the element itself",
   "funding": "https://github.com/mathieuprog/find-value?sponsor=1",
@@ -22,10 +22,12 @@
     "vite": "^4.1.4",
     "vitest": "^0.29.2"
   },
-  "dependencies": {
-  },
   "bugs": {
     "url": "https://github.com/mathieuprog/find-value/issues"
   },
-  "homepage": "https://github.com/mathieuprog/find-value#readme"
+  "homepage": "https://github.com/mathieuprog/find-value#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathieuprog/find-value.git"
+  }
 }
