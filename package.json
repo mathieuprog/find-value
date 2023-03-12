@@ -1,6 +1,6 @@
 {
   "name": "@mathieuprog/find-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Similar to Array.find(), but returns the value of the function invocation instead of the element itself",
   "funding": "https://github.com/mathieuprog/find-value?sponsor=1",
   "source": "src/index.ts",
