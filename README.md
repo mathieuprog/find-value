@@ -1,6 +1,6 @@
 # find-value
 
-Similar to Array.find(), but returns the value of the function invocation instead of the element itself
+Similar to Array.find(), but returns the value of the function invocation instead of the element itself.
 
 ```typescript
 import findValue from '@mathieuprog/find-value';
